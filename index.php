@@ -57,9 +57,7 @@ artxComponentWrapper($document);
     <!-- article-content -->
 
 <jdoc:include type="message" />
-<?php
-  if ()
-?>
+
 
     <!-- /article-content -->
 </div>

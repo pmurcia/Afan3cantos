@@ -1293,7 +1293,7 @@ a img
 .art-article img, img.art-article
 {
   margin: 5px;
-  width: 450px !important;
+  
 }
 
 .art-metadata-icons img
@@ -2304,4 +2304,9 @@ td.key
 .dm_taskbar ul li
 {
   background-image: none;
+}
+
+.inner-photo{
+  border-radius: 50%;
+  max-width: 450px !important;
 }
