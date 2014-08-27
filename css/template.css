@@ -558,6 +558,7 @@ div.art-content-layout-row
   background-color: Transparent;
   border: none !important;
   padding:0 !important;
+  width: 100%;
 }
 
 .art-layout-cell, .art-content-layout-row
@@ -1150,7 +1151,7 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 
 .art-block
 {
-  margin: 7px;
+  margin-left: -180px;
   width: 250px !important;
 }
 
