@@ -158,7 +158,7 @@ table.position
 
 .art-sheet
 {
-  margin-top: 75px !important;
+  margin-top: 50px !important;
   cursor:auto;
   width: 100%;
 }
@@ -566,8 +566,8 @@ div.art-content-layout-row
   vertical-align: top;
   text-align: left;
   border: none !important;
-  margin:0 !important;
-  padding:0 !important;
+  /* margin:0 !important; */
+  /* padding:0 !important; */
 }
 /* end Layout */
 
