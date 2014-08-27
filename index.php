@@ -22,7 +22,7 @@ artxComponentWrapper($document);
  <script type="text/javascript" src="<?php echo $templateUrl; ?>/script.js"></script>
 </head>
 <body>
-<?php print_r($this); ?>
+<!-- <?php // print_r($this); ?> -->
 <div id="art-main">
 <div class="art-sheet">
     <div class="art-sheet-cc"></div>
