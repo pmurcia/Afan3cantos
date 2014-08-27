@@ -1293,6 +1293,7 @@ a img
 .art-article img, img.art-article
 {
   margin: 5px;
+  width: 450px !important;
 }
 
 .art-metadata-icons img
