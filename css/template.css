@@ -1151,9 +1151,9 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 
 .art-block
 {
-  margin-left: -305%;
-  margin-top: 0px;
-  width: 340px !important;
+  margin-left: -240%;
+  margin-top: -40px;
+  width: 260% !important;
 }
 
 /* end Box, Block */
@@ -2041,7 +2041,7 @@ div.message
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
+  width: 187px;
 }
 
 /* Text advert style */
