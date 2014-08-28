@@ -183,7 +183,7 @@ div.art-header
   background-image: url('../images/familia.jpg');
   background-repeat: no-repeat;
   background-position: right top;
-  top: -30px;
+  top: -30px !important;
 }
 
 
