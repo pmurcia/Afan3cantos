@@ -183,6 +183,7 @@ div.art-header
   background-image: url('../images/familia.jpg');
   background-repeat: no-repeat;
   background-position: right top;
+  top: -30px;
 }
 
 
@@ -207,7 +208,7 @@ div.art-header-jpeg
   display: block;
   position: absolute;
   left: 300px;
-  top: 100px;
+  top: 65px;
   width: 600px;
 }
 
@@ -222,7 +223,7 @@ h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name 
   font-size: 22px;
   text-decoration: none;
   padding: 0;
-  margin-top: 20px;
+  margin-top: 50px;
   color: #cb3301 !important;
 }
 
