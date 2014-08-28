@@ -1152,7 +1152,7 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 .art-block
 {
   margin-left: -240%;
-  margin-top: -40px;
+  margin-top: -15%;
   width: 260% !important;
 }
 
@@ -1283,6 +1283,7 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 .art-post
 {
   margin: 10px;
+  width: 100%;
 }
 
 a img
