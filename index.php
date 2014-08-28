@@ -137,7 +137,7 @@ All Rights Reserved.</p>
     </div>
 </div>
 <div class="cleared"></div>
-<p class="art-page-footer">Theme By <?php include("business.php"); ?></p>
+<!-- <p class="art-page-footer">Theme By <?php //include("business.php"); ?></p> -->
  | 
 </div>
 
