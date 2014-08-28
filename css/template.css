@@ -6,7 +6,7 @@ body
 {
   margin: 0 auto;
   padding: 0;
-  background-color: #FFFFFF;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(72%,rgba(255,255,255,1)));
   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
   font-style: normal;
   font-weight: normal;
@@ -143,6 +143,7 @@ table.position
   position: relative;
   z-index: 1;
   padding: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(72%,rgba(255,255,255,1)));
 }
 
 .art-sheet-cc
@@ -1283,7 +1284,7 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 .art-post
 {
   margin: 10px;
-  width: 100%;
+  max-width: 100%;
 }
 
 a img
