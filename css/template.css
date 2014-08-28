@@ -2042,7 +2042,7 @@ div.message
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 187px;
+  width: 100%;
 }
 
 /* Text advert style */
