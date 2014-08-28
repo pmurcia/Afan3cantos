@@ -6,7 +6,7 @@ body
 {
   margin: 0 auto;
   padding: 0;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(72%,rgba(255,255,255,1)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(100%,rgba(255,255,255,1)));
   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
   font-style: normal;
   font-weight: normal;
@@ -143,7 +143,7 @@ table.position
   position: relative;
   z-index: 1;
   padding: 0;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(72%,rgba(255,255,255,1)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(208,42,0,1)), color-stop(9%,rgba(208,42,0,1)), color-stop(21%,rgba(235,209,192,1)), color-stop(100%,rgba(255,255,255,1)));
 }
 
 .art-sheet-cc
@@ -194,7 +194,7 @@ div.art-header-jpeg
   left: 0;
   width: 899px;
   height: 200px;
-  background-image: url('../images/logo.jpg');
+  background-image: url('../images/logo2.jpg');
   background-repeat: no-repeat;
   background-position: left center;
 }
