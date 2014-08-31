@@ -143,7 +143,7 @@ table.position
   position: relative;
   z-index: 1;
   padding: 0;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(13%,rgba(255,255,255,1)), color-stop(13%,rgba(255,255,255,1)), color-stop(14%,rgba(208,42,0,1)), color-stop(21%,rgba(208,42,0,1)), color-stop(22%,rgba(235,209,192,1)), color-stop(22%,rgba(235,209,192,1)), color-stop(92%,rgba(235,209,192,1)), color-stop(92%,rgba(255,255,255,1)), color-stop(93%,rgba(208,42,0,1)), color-stop(100%,rgba(208,42,0,1)));
+  -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(13%,rgba(255,255,255,1)), color-stop(17%,rgba(255,255,255,1)), color-stop(17%,rgba(208,42,0,1)), color-stop(20%,rgba(208,42,0,1)), color-stop(20%,rgba(235,209,192,1)), color-stop(22%,rgba(235,209,192,1)), color-stop(92%,rgba(235,209,192,1)), color-stop(96%,rgba(255,255,255,1)), color-stop(96%,rgba(208,42,0,1)), color-stop(100%,rgba(208,42,0,1)));
 }
 
 .art-sheet-cc
@@ -224,7 +224,7 @@ h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name 
   text-decoration: none;
   padding: 0;
   margin-top: 50px;
-  color: #cb3301 !important;
+  color: black !important;
 }
 
 .art-logo-text
@@ -353,6 +353,7 @@ h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name 
   position: relative;
   height: 30px;
   z-index: 100;
+  margin-top: -6%;
 }
 
 
@@ -409,11 +410,12 @@ h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name 
 {
   margin-right: 10px;
   margin-left: 10px;
-  color: #c83702;
+  color: black;
   padding: 0 15px;
   margin: 0 8px;
   line-height: 24px;
   text-align: center;
+  font-size: 17px;
 }
 
 .art-menu a:hover .l, .art-menu a:hover .r
@@ -1155,7 +1157,7 @@ ul.art-vmenu ul li li li li li a:hover, ul.art-vmenu ul li li li li li a:hover.a
 .art-block
 {
   margin-left: -240%;
-  margin-top: -15%;
+  margin-top: 100%;
   width: 260% !important;
 }
 
