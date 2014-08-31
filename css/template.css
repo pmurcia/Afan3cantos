@@ -143,7 +143,7 @@ table.position
   position: relative;
   z-index: 1;
   padding: 0;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(13%,rgba(255,255,255,1)), color-stop(17%,rgba(255,255,255,1)), color-stop(17%,rgba(208,42,0,1)), color-stop(20%,rgba(208,42,0,1)), color-stop(20%,rgba(235,209,192,1)), color-stop(22%,rgba(235,209,192,1)), color-stop(92%,rgba(235,209,192,1)), color-stop(96%,rgba(255,255,255,1)), color-stop(96%,rgba(208,42,0,1)), color-stop(100%,rgba(208,42,0,1)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(20%,rgba(255,255,255,1)), color-stop(20%,rgba(208,42,0,1)), color-stop(24%,rgba(208,42,0,1)), color-stop(24%,rgba(235,209,192,1)), color-stop(96%,rgba(255,255,255,1)), color-stop(96%,rgba(208,42,0,1)), color-stop(100%,rgba(208,42,0,1)));
 }
 
 .art-sheet-cc
@@ -353,7 +353,7 @@ h1.art-logo-name, h1.art-logo-name a, h1.art-logo-name a:link, h1.art-logo-name 
   position: relative;
   height: 30px;
   z-index: 100;
-  margin-top: -6%;
+  margin-top: -2%;
 }
 
 
