@@ -1525,7 +1525,7 @@ blockquote,
   position: absolute;
   z-index: -1;
   background-repeat: no-repeat;
-  background-image: url('../images/footer.png');
+  /* background-image: url('../images/footer.png'); */
   width: 899px;
   height: 150px;
   bottom: 0;
@@ -1556,7 +1556,7 @@ blockquote,
 .art-footer .art-footer-text
 {
   display: inline-block;
-  color: #18141A;
+  color: white;
   font-size: 11px;
 }
 
